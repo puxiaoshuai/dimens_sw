@@ -6,14 +6,14 @@ import dimens.utils.MakeUtils;
 public class DimenGenerator {
 
     /**
-     * 设计稿尺寸(根据自己设计师的设计稿的宽度填入)
+     * 设计稿尺寸(比如1080*1920)  3
      */
-    private static final int DESIGN_WIDTH = 375;
+    private static final int DESIGN_WIDTH = 360;
 
     /**
      * 设计稿高度  没用到
      */
-    private static final int DESIGN_HEIGHT = 667;
+    private static final int DESIGN_HEIGHT = 640;
 
     public static void main(String[] args) {
 
