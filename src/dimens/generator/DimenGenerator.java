@@ -4,7 +4,10 @@ import dimens.constants.DimenTypes;
 import dimens.utils.MakeUtils;
 
 public class DimenGenerator {
-
+/**
+*
+*dpi是480,横向像素是1080px，根据px=dp(dpi/160)，横向的dp值是1080/(480/160),也就是360dp
+**/
     /**
      * 设计稿尺寸(比如1080*1920)  3
      */
